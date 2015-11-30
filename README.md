@@ -1,4 +1,6 @@
 # Meanwhile Tears
+
+[![Join the chat at https://gitter.im/pavgup/meanwhile-sametime-tears](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pavgup/meanwhile-sametime-tears?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/pavgup/meanwhile-sametime-tears.svg)](https://travis-ci.org/pavgup/meanwhile-sametime-tears)
 [![Coverity Status](https://scan.coverity.com/projects/7115/badge.svg)](https://scan.coverity.com/projects/pavgup-meanwhile-sametime-tears)[![Coverage Status](https://coveralls.io/repos/pavgup/meanwhile-sametime-tears/badge.svg?branch=master&service=github)](https://coveralls.io/github/pavgup/meanwhile-sametime-tears?branch=master)
 
